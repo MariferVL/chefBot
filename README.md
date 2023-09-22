@@ -42,7 +42,10 @@ Simply interact with the chatbot by entering an ingredient you like, and it will
 ## Demo
 
 
-https://github.com/MariferVL/chefBot/assets/99364311/6e732200-96a3-4def-a180-f8de35fb9c81
+
+https://github.com/MariferVL/chefBot/assets/99364311/8bff1259-131f-42ea-80d8-0d93240b2a2f
+
+
 
 Click the link above to watch a demo of the Chilean Cuisine Chatbot in action.
 
